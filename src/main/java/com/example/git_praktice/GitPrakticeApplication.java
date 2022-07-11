@@ -14,6 +14,9 @@ public class GitPrakticeApplication {
 
             if(i>19){
                 System.out.println("No");
+
+            } else {
+                System.out.println("Yes");
             }
         }
     }
