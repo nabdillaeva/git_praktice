@@ -22,6 +22,7 @@ public class GitPrakticeApplication {
 
         System.out.println("gadgetarium rulit");
         System.out.println("gadgetarium rulit");
+        System.out.println("gadgetarium rulit");
     }
 
 
