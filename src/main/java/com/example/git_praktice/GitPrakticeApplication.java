@@ -11,6 +11,10 @@ public class GitPrakticeApplication {
 
         for (int i = 0; i < 20; i++) {
             System.out.println("Ulan");
+
+            if(i>19){
+                System.out.println("No");
+            }
         }
 
         System.out.println("gadgetarium rulit");
