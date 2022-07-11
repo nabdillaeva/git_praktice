@@ -12,6 +12,8 @@ public class GitPrakticeApplication {
         for (int i = 0; i < 20; i++) {
             System.out.println("Ulan");
         }
+
+        System.out.println("gadgetarium rulit");
     }
 
 
