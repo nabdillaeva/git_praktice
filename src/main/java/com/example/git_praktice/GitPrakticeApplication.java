@@ -8,6 +8,11 @@ public class GitPrakticeApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(GitPrakticeApplication.class, args);
+
+        for (int i = 0; i < 20; i++) {
+            System.out.println("Ulan");
+        }
     }
+
 
 }
